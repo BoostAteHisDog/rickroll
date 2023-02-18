@@ -5,6 +5,7 @@ A website with the auto-playing song "Never Gonna Give You Up" that can be used 
 ### (Last checked on 12/31/22)
 
 **Find it here: https://bit.ly/3BlS71b**
+**And here: https://bjossi.net**
 
 UPDATE 1: This small project has RickRolled 23,440 people and counting as of Jan. 31st, 2022!
 
